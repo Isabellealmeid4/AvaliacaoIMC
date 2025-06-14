@@ -8,7 +8,7 @@ O Avaliador de IMC é uma ferramenta simples e prática para quem busca monitora
 Basta inserir o seu peso (em quilogramas) e sua altura (em metros). O avaliador então calcula e exibe o seu IMC e, mais importante, categoriza o resultado em faixas de saúde. Essa funcionalidade ajuda o usuário a entender se seu peso está adequado para sua altura, indicando se está abaixo do peso, com peso normal, sobrepeso ou obesidade. É uma ótima forma de visualizar de forma rápida a sua situação atual e, se necessário, buscar orientação profissional.
 
 ## Prints
-![print](img.png)
+![print](imc.png)
 
 
 ## Tecnologias Utilizadas:
